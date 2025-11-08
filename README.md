@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.2-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
 
 Sistem prediksi cuaca mikro berbasis Machine Learning untuk memprediksi kondisi cuaca lokal berdasarkan parameter meteorologi seperti suhu, kelembapan, tekanan udara, kecepatan angin, dan lainnya.
 
