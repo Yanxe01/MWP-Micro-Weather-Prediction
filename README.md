@@ -409,17 +409,6 @@ Data meteorologi dikumpulkan setiap jam dengan sensor atau API cuaca
 - [ ] Cloud deployment (AWS, GCP, Azure)
 - [ ] A/B testing untuk model comparison
 
----
-
-## 🤝 Kontribusi
-
-Kontribusi sangat diterima! Berikut cara berkontribusi:
-
-1. Fork repository ini
-2. Buat branch fitur baru (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buat Pull Request
 
 ### Guidelines
 
@@ -428,26 +417,6 @@ Kontribusi sangat diterima! Berikut cara berkontribusi:
 - Update dokumentasi jika diperlukan
 - Gunakan commit message yang deskriptif
 
----
-
-## 📝 Lisensi
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
----
-
-## 👤 Kontak
-
-**Project Maintainer**: Your Name
-
-- 📧 Email: your.email@example.com
-- 🐱 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-
-**Project Link**: [https://github.com/yourusername/prediksi-cuaca-mikro](https://github.com/yourusername/prediksi-cuaca-mikro)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -466,20 +435,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 3. Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn and TensorFlow.
 4. McKinney, W. (2017). Python for Data Analysis.
 
----
 
-## 📊 Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/prediksi-cuaca-mikro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/prediksi-cuaca-mikro?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/prediksi-cuaca-mikro)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/prediksi-cuaca-mikro)
-
----
-
-<div align="center">
-  
-### ⭐ Jika proyek ini membantu, berikan star! ⭐
 
 **Made with ❤️ and ☕ by [Your Name]**
 
