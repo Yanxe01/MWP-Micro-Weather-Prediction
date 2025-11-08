@@ -434,9 +434,3 @@ Data meteorologi dikumpulkan setiap jam dengan sensor atau API cuaca
 2. Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning.
 3. Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn and TensorFlow.
 4. McKinney, W. (2017). Python for Data Analysis.
-
-
-
-**Made with ❤️ and ☕ by [Your Name]**
-
-</div>
